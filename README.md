@@ -1,9 +1,9 @@
 # spring.boot.mvc.crud
 Basic CRUD operations with Spring Boot
 
-Spring Core
-Spring Data (Hibernate & MySQL)
-Spring MVC (Tomcat)
+Markup : 1. Spring Boot
+         2. Spring Data (Hibernate & MySQL)
+         3. Spring MVC (Tomcat)
 
 Usage (with eclipse):
 1.) Clone the project
