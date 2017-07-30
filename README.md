@@ -16,4 +16,15 @@ Basic CRUD operations with Spring Boot
 1. `mvn package`
 1. `java -jar target/start-1.0-SNAPSHOT.war`
 
+## Database configuration 
+Run book.store.sql on MySQL Workbench and add the credentials to `/resources/application.properties`.  
+The default ones are :
+
+```
+spring.datasource.url=jdbc:mysql://localhost:3306/book.store
+spring.datasource.username=root
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
+```
+
 
